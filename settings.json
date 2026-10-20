@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CraftattackFake1.aternos.me:41736",
+    "ip": "CraftattackFake1.aternos.me",
     "port": 41736,
     "version": "",
     "try-creative": false
